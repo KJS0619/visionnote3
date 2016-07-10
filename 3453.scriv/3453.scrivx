@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.0.0" Device="user-PC" Modified="2016-07-10 07:11:56 +0000" ModID="7B9BB02F-052C-4E04-ABEB-2E9977591D0F">
+    <Binder>
+        <BinderItem ID="0" UUID="B8BD8CF2-D26E-4CD0-AFA7-BBDAF45A24B6" Created="2016-05-06 09:20:23 +0000" Modified="2016-05-06 09:20:23 +0000" Type="DraftFolder">
+            <Title>초안</Title>
+            <MetaData/>
+            <Children>
+                <BinderItem ID="3" UUID="F10DAAAA-1021-405B-BED0-BA56389ADB8E" Created="2016-05-06 09:20:23 +0000" Modified="2016-07-10 07:11:54 +0000" Type="Text">
+                    <Title>esrert</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>17,17</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="91EA0930-452C-44AF-91F8-1EE449CC03CF" Created="2016-05-06 09:20:23 +0000" Modified="2016-05-06 09:20:23 +0000" Type="ResearchFolder">
+            <Title>조사</Title>
+            <MetaData/>
+        </BinderItem>
+        <BinderItem ID="2" UUID="A7288FFA-10DC-4C52-B207-32D5853AE01E" Created="2016-05-06 09:20:23 +0000" Modified="2016-05-06 09:20:23 +0000" Type="TrashFolder">
+            <Title>쓰레기통</Title>
+            <MetaData/>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>라벨</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">라벨 없음</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">개념</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">장</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>상태</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">상태 없음</Status>
+            <Status ID="0">해당없음</Status>
+            <Status ID="1">할일</Status>
+            <Status ID="2">초안</Status>
+            <Status ID="3">개정 초안</Status>
+            <Status ID="4">최종안</Status>
+            <Status ID="5">완료</Status>
+        </StatusItems>
+    </StatusSettings>
+    <Collections>
+        <Collection Type="Binder" ID="a587c51c-29de-4d07-9626-c9c19839a6f9" Color="0.901961 0.917647 0.933333">
+            <Title>바인더</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="5461d48a-5005-40f2-9e27-5313c8291f08" Color="0.901961 0.901961 0.980392">
+            <Title>찾기 결과</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
+    </ProjectTargets>
+    <PrintSettings PaperType="A4" LeftMargin="16.8095" RightMargin="17.2914" TopMargin="11.9906" BottomMargin="11.9906" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
